@@ -1,11 +1,11 @@
 # Regeln für Komojo
 
-##Übersicht:
+## Übersicht:
 - 1 x Deck mit 52 Karten (+ 2 Joker)
 - Anzahl der Spieler: zwischen 3 - 6
 - Das Spiel endet, wenn ein Spieler mehr als 100 Punkte erreicht.
 
-##Ziel:
+## Ziel:
 Das Ziel der Runde ist es, die niedrigste Punktanzahl zu haben (Summe der Werte deiner Karten).
 - Die Zahl auf der Karte stellt ihren Wert dar (2 = 2, 3 = 3, usw.).
 - Bildkarten setzen die Zahlenfolge fort (Bube = 11, Dame = 12, *König = 13).
@@ -13,7 +13,7 @@ Das Ziel der Runde ist es, die niedrigste Punktanzahl zu haben (Summe der Werte 
 - Joker hat den Wert -1.
 - Die Farbe der Karten ist nicht relevant, *außer* die 2 roten Könige. Diese haben einen Wert von 0.
 
-##Regeln:
+## Regeln:
 4 Karten (7er, 8er, 9er & 10er) haben besondere Fähigkeiten. Diese Karten müssen sofort gespielt werden (auf den Ablegestapel werfen) wenn man sie zieht. Man muss die Aktion durchführen! Falls man diese Karten aus seinem eigenen Deck ablegt haben sie keine Sonderfähigkeit.
 
 7er: du kannst eine deiner Karten anschauen. Nur eine und nur einmal.
@@ -29,7 +29,7 @@ Bitte beachten:
 - du darfst nur deine gleiche Karte ablegen, wenn ein Gegner am Zug ist.
 - sollte ein Spieler keine Karten mehr haben, weil dieser es geschafft im Laufe des Spiels alle abzuwerfen, so ist es automatisch "Komojo STOP" und wird eine letzte Runde gespielt (siehe Ende).
 
-##Start:
+## Start:
 Jeder Spieler erhält 4 verdeckte Karten. Diese liegen in 2 Reihen mit je 2 Karten. Der Rest des Stapels wird in die Mitte gelegt. Sobald alle Spieler bereit sind, wird "Komojo GO!" gerufen und jeder Spieler darf sich seine 2 unteren Karten einmal und nur einmal ansehen. Der erste Spieler beginnt und es wird im Uhrzeigersinn gespielt.
 
 ##Züge:
@@ -40,7 +40,7 @@ Wenn du an der Reihe bist, hast du 2 Möglichkeiten:
 Bitte beachte:
 - Vor dem Tausch darfst du dir keine deiner verdeckten Karten anschauen!
 
-##Ende:
+## Ende:
 Wenn du dir ziemlich sicher bist, dass du die niedrigste Punkteanzahl hast, kannst du "Komojo STOP" sagen, sofern du am Zug bist. Sobald dies angesagt wurde, wird eine letzte Runde gespielt. Diese letzte Runde endet direkt vor dem Spieler, der "Komojo STOP" gesagt hat. Danach deckt jeder Spieler seine Karten auf und zählt seine Punkte.
 
 Sollte der Herausforderer (Spieler der "Komojo STOP" gesagt hat) die niedrigste Punkteanzahl haben, dann erhält er 0 Punkte. Um die Runde zu gewinnen, muss er die niedrigste Punkteanzahl haben, Gleichstand ist verloren. Sollte der Herausforderer nicht die niedrigste Punkteanzahl haben, dann wird er mit +30 Punkten bestraft.
