@@ -7,13 +7,14 @@
 
 ## Ziel:
 Das Ziel der Runde ist es, die niedrigste Punktanzahl zu haben (Summe der Werte deiner Karten).
+
+## Regeln:
 - Die Zahl auf der Karte stellt ihren Wert dar (2 = 2, 3 = 3, usw.).
 - Bildkarten setzen die Zahlenfolge fort (Bube = 11, Dame = 12, *König = 13).
 - Ass hat den Wert 1.
 - Joker hat den Wert -1.
 - Die Farbe der Karten ist nicht relevant, *außer* die 2 roten Könige. Diese haben einen Wert von 0.
 
-## Regeln:
 4 Karten (7er, 8er, 9er & 10er) haben besondere Fähigkeiten. Diese Karten müssen sofort gespielt werden (auf den Ablegestapel werfen) wenn man sie zieht. Man muss die Aktion durchführen! Falls man diese Karten aus seinem eigenen Deck ablegt haben sie keine Sonderfähigkeit.
 
 7er: du kannst eine deiner Karten anschauen. Nur eine und nur einmal.
@@ -31,6 +32,15 @@ Bitte beachten:
 
 ## Start:
 Jeder Spieler erhält 4 verdeckte Karten. Diese liegen in 2 Reihen mit je 2 Karten. Der Rest des Stapels wird in die Mitte gelegt. Sobald alle Spieler bereit sind, wird "Komojo GO!" gerufen und jeder Spieler darf sich seine 2 unteren Karten einmal und nur einmal ansehen. Der erste Spieler beginnt und es wird im Uhrzeigersinn gespielt.
+
+```
+┏━┓┏━┓
+┃ ┃┃ ┃
+┗━┛┗━┛
+┏━┓┏━┓
+┃x┃┃x┃
+┗━┛┗━┛
+```
 
 ##Züge:
 Wenn du an der Reihe bist, hast du 2 Möglichkeiten:
