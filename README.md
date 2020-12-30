@@ -3,7 +3,7 @@
 ## Übersicht:
 - 1 x Deck mit 52 Karten (+ 2 Joker)
 - Anzahl der Spieler: zwischen 3 - 6
-- Das Spiel endet, wenn ein Spieler mehr als 100 Punkte erreicht.
+- Das Spiel endet, wenn ein Spieler mehr als 100 Punkte erreicht
 
 ## Ziel:
 Das Ziel der Runde ist es, die niedrigste Punktanzahl zu haben (Summe der Werte deiner Karten).
