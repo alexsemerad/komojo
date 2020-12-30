@@ -42,7 +42,7 @@ Jeder Spieler erhält 4 verdeckte Karten. Diese liegen in 2 Reihen mit je 2 Kart
 ┗━┛┗━┛
 ```
 
-##Züge:
+## Züge:
 Wenn du an der Reihe bist, hast du 2 Möglichkeiten:
 - du kannst dir eine neue Karte aus dem Spatel nehmen. Du schaust dir die Karte an und entscheidest, ob du diese mit einer deiner 4 verdeckten Karten austauschen möchtest. (Falls es eine 7, 8, 9 oder 10 ist, siehe besondere Fähigkeiten). Die getauschte Karte wird offen auf den Ablegestapel gelegt. Falls du dich gegen einen Tausch entscheidest, wird die gezogene Karte auch einfach auf den Ablegestapel gelegt.
 - du hast auch die Möglichkeit, die oberste Karte des Stapels zu nehmen und sie mit einer deiner verdeckten Karten zu tauschen. Die getauschte Karte wird offen auf den Ablegestapel gelegt.
